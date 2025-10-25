@@ -7,7 +7,7 @@ Basic CRUD Operation to handle a Book Inventory.
 
 To run client, you will need to add the following environment variables to your .env file
 
-`BASE_URL` - BACKEND URL
+`VITE_BASE_URL` - BACKEND URL
 
 For our task, server is running at 9000 port
 
